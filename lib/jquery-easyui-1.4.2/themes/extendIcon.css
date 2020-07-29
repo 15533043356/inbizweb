@@ -1,0 +1,348 @@
+﻿
+.icon-go
+{
+    background: url('extendIcon/go.png') no-repeat center center;
+}
+
+.icon-mini-add
+{
+    background: url('extendIcon/mini_add.png') no-repeat center center;
+}
+
+.icon-mini-edit
+{
+    background: url('extendIcon/mini_edit.png') no-repeat center center;
+}
+
+.icon-mini-refresh
+{
+    background: url('extendIcon/mini_refresh.png') no-repeat center center;
+}
+
+.icon-newEdit
+{
+    background: url('extendIcon/admin.gif') no-repeat center center;
+}
+
+.icon-newadd
+{
+    background: url('extendIcon/add.gif') no-repeat center center;
+}
+
+.icon-befadd
+{
+    background: url('extendIcon/Insert_Before.gif') no-repeat center center;
+}
+
+.icon-afteradd
+{
+    background: url('extendIcon/Insert_After.gif') no-repeat center center;
+}
+
+.icon-outdent
+{
+    background: url('extendIcon/outdent.gif') no-repeat center center;
+}
+
+.icon-indent
+{
+    background: url('extendIcon/indent.gif') no-repeat center center;
+}
+
+.icon-up
+{
+    background: url('extendIcon/up.gif') no-repeat center center;
+}
+
+.icon-down
+{
+    background: url('extendIcon/down.gif') no-repeat center center;
+}
+
+.icon-lampred
+{
+    background: url('extendIcon/lamp_red.gif') no-repeat center center;
+}
+
+.icon-lampyellow
+{
+    background: url('extendIcon/lamp_yellow.gif') no-repeat center center;
+}
+
+.icon-lampgreen
+{
+    background: url('extendIcon/lamp_green.gif') no-repeat center center;
+}
+
+.icon-edit-bule
+{
+    background: url('extendIcon/edit_bule.png') no-repeat center center;
+}
+
+.icon-search-bule
+{
+    background: url('extendIcon/search_bule.png') no-repeat center center;
+}
+
+.icon-add-bule
+{
+    background: url('extendIcon/add_bule.png') no-repeat center center;
+}
+
+.icon-delete-blue
+{
+    background: url('extendIcon/delete_blue.png') no-repeat center center;
+}
+
+.icon-beforadd-blue
+{
+    background: url('extendIcon/beforadd_blue.png') no-repeat center center;
+}
+
+.icon-afteradd-blue
+{
+    background: url('extendIcon/afteradd_blue.png') no-repeat center center;
+}
+
+.icon-outdent-blue
+{
+    background: url('extendIcon/outdent_blue.png') no-repeat center center;
+}
+
+.icon-indent-blue
+{
+    background: url('extendIcon/indent_blue.png') no-repeat center center;
+}
+
+.icon-up-blue
+{
+    background: url('extendIcon/up_blue.png') no-repeat center center;
+}
+
+.icon-down-blue
+{
+    background: url('extendIcon/down_blue.png') no-repeat center center;
+}
+
+.icon-dept-blue
+{
+    background: url('extendIcon/dept-blue.png') no-repeat center center;
+}
+
+.icon-dept-gray
+{
+    background: url('extendIcon/dept-gray.png') no-repeat center center;
+}
+
+.icon-user-gray
+{
+    background: url('extendIcon/user-gray.png') no-repeat center center;
+}
+
+.icon-user-blue
+{
+    background: url('extendIcon/user-blue.png') no-repeat center center;
+}
+
+.icon-users-gray
+{
+    background: url('extendIcon/users-gray.png') no-repeat center center;
+}
+
+.icon-users-blue
+{
+    background: url('extendIcon/users-blue.png') no-repeat center center;
+}
+
+.icon-position-gray
+{
+    background: url('extendIcon/position-gray.png') no-repeat center center;
+}
+
+.icon-position-blue
+{
+    background: url('extendIcon/position-blue.png') no-repeat center center;
+}
+
+.icon-icon-org
+{
+    background: url('extendIcon/icon-org.png') no-repeat center center;
+}
+
+.icon-doc
+{
+    background: url('extendIcon/doc.png') no-repeat center center;
+}
+
+.tree-folder-newopened
+{
+    width: 16px;
+    background: url('extendIcon/tree_icons.png') no-repeat -224px 0;
+}
+
+.tree-folder-newclosed
+{
+    width: 16px;
+    background: url('extendIcon/tree_icons.png') no-repeat -208px 0;
+}
+
+.tree-folder-root
+{
+    width: 16px;
+    background: url('extendIcon/tree-root.gif');
+}
+
+.tree-folder-personal
+{
+    width: 16px;
+    background: url('extendIcon/tree-folder-personal.gif');
+}
+
+.icon-downarrow
+{
+    background: url('extendIcon/panel_tools.png') no-repeat -32px -16px;
+}
+ 
+.new-tab-close
+{
+    background: url('extendIcon/tabs_icons.png') no-repeat -34px center;
+}
+
+a
+{
+    color: black;
+}
+
+    a:hover
+    {
+        color: blue;
+    }
+
+.selected-show
+{
+    display: inline-block;
+    width: 16px;
+    height: 16px;
+    /*padding-top: 5px;*/
+    background-image: url('extendIcon/down.png');
+    background-repeat: no-repeat;
+    background-position-x: 12px;
+    background-position-y: -1px;
+}
+
+.selected-hide
+{
+    display: inline-block;
+    width: 16px;
+    height: 16px;
+    /*padding-top: 5px;*/
+    background-image: url('extendIcon/up.png');
+    background-repeat: no-repeat;
+    background-position-x: 12px;
+    background-position-y: -1px;
+}
+
+.userViewModeList
+{
+    background-repeat: no-repeat;
+    display: inline-block;
+    width: 16px;
+    height: 16px;
+    background-image: url('extendIcon/docViewModeList.png');
+}
+
+.userViewModeThumbnail
+{
+    background-image: url('extendIcon/docViewModeThumbnail.png');
+    background-repeat: no-repeat;
+    display: inline-block;
+    width: 16px;
+    height: 16px;
+}
+
+.userCharSelected
+{
+    background-color: lightgray;
+}
+
+a.member-remove
+{
+    position: absolute;
+    right: 3px;
+    top: 2px;
+    display: block;
+    width: 11px;
+    height: 11px;
+    background: url("extendIcon/close.png") 0 0 no-repeat;
+}
+
+a.memberDepartmentIcon
+{
+    display: block;
+    width: 16px;
+    height: 16px;
+    vertical-align: middle;
+    position: absolute;
+    left: 2px;
+    top: 0px;
+    background: url(extendIcon/dept-blue.png) no-repeat;
+}
+
+a.memberGroupIcon
+{
+    display: block;
+    width: 16px;
+    height: 16px;
+    vertical-align: middle;
+    position: absolute;
+    left: 2px;
+    top: 0px;
+    background: url(extendIcon/users-blue.png) no-repeat;
+}
+
+a.memberPositionIcon
+{
+    display: block;
+    width: 16px;
+    height: 16px;
+    vertical-align: middle;
+    position: absolute;
+    left: 2px;
+    top: 0px;
+    background: url(extendIcon/position-blue.png) no-repeat;
+}
+
+a.memberUserIcon
+{
+    display: block;
+    width: 16px;
+    height: 16px;
+    vertical-align: middle;
+    position: absolute;
+    left: 2px;
+    top: 0px;
+    background: url(extendIcon/user-blue.png) no-repeat;
+}
+
+.userSelected
+{
+    border: 1px solid rgb(0, 136, 204);
+    color: rgb(0, 136, 204);
+}
+
+.userUnSelected
+{
+   border: 1px solid #D4D4D4;
+}
+
+ div.divindex span
+    {
+        display: inline-block;
+        height: 14px;
+        line-height: 14px;
+        margin-top: 1px;
+        vertical-align:text-bottom;
+        width: 14px;
+     margin-right: 2px;
+    }
+

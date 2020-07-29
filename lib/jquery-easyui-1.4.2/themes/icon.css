@@ -1,0 +1,259 @@
+﻿@charset "UTF-8";
+.icon-blank {
+  background: url("icons/blank.gif") no-repeat center center;
+}
+
+.icon-add {
+  background: url("icons/edit_add.png") no-repeat center center;
+}
+
+.icon-edit {
+  background: url("icons/edit.png") no-repeat center center;
+}
+
+.icon-clear {
+  background: url("icons/clear.png") no-repeat center center;
+}
+
+.icon-remove {
+  background: url("icons/edit_remove.png") no-repeat center center;
+}
+
+.icon-save {
+  background: url("icons/filesave.png") no-repeat center center;
+}
+
+.icon-cut {
+  background: url("icons/cut.png") no-repeat center center;
+}
+
+.icon-ok {
+  background: url("icons/ok.png") no-repeat center center;
+}
+
+.icon-no {
+  background: url("icons/no.png") no-repeat center center;
+}
+
+.icon-cancel {
+  background: url("icons/cancel.png") no-repeat center center;
+}
+
+.icon-reload {
+  background: url("icons/reload.png") no-repeat center center;
+}
+
+.icon-search {
+  background: url("icons/search.png") no-repeat center center;
+}
+
+.icon-print {
+  background: url("icons/print.png") no-repeat center center;
+}
+
+.icon-help {
+  background: url("icons/help.png") no-repeat center center;
+}
+
+.icon-undo {
+  background: url("icons/undo.png") no-repeat center center;
+}
+
+.icon-redo {
+  background: url("icons/redo.png") no-repeat center center;
+}
+
+.icon-back {
+  background: url("icons/back.png") no-repeat center center;
+}
+
+.icon-sum {
+  background: url("icons/sum.png") no-repeat center center;
+}
+
+.icon-tip {
+  background: url("icons/tip.png") no-repeat center center;
+}
+
+.icon-filter {
+  background: url("icons/filter.png") no-repeat center center;
+}
+
+.icon-man {
+  background: url("icons/man.png") no-repeat center center;
+}
+
+.icon-lock {
+  background: url("icons/lock.png") no-repeat center center;
+}
+
+.icon-more {
+  background: url("icons/more.png") no-repeat center center;
+}
+
+.icon-meta {
+  background: url("icons/meta28.png") no-repeat center center;
+}
+
+/*2017-09-08  更多按钮下的图标*/
+.icon-mini-add {
+  background: url("icons/mini_add.png") no-repeat center center;
+}
+
+.icon-mini-edit {
+  background: url("icons/edit.png") no-repeat center center;
+}
+
+.icon-mini-refresh {
+  background: url("icons/mini_refresh.png") no-repeat center center;
+}
+
+.icon-large-picture {
+  background: url("icons/large_picture.png") no-repeat center center;
+}
+
+.icon-large-clipart {
+  background: url("icons/large_clipart.png") no-repeat center center;
+}
+
+.icon-large-shapes {
+  background: url("icons/large_shapes.png") no-repeat center center;
+}
+
+.icon-large-smartart {
+  background: url("icons/large_smartart.png") no-repeat center center;
+}
+
+.icon-large-chart {
+  background: url("icons/large_chart.png") no-repeat center center;
+}
+
+.icon-meta {
+  background: url("icons/meta28.png") no-repeat center center;
+}
+
+.icon-public {
+  background: url("icons/public.png") no-repeat center center;
+}
+
+.icon-delete {
+  background: url("icons/delete.png") no-repeat center center;
+}
+
+.icon-log {
+  background: url("icons/log.png") no-repeat center center;
+}
+
+.icon-unfavorite {
+  background: url("icons/unfavorite.png") no-repeat center center;
+}
+
+.icon-more {
+  background: url("icons/two.png") no-repeat center center;
+}
+
+.icon-tactic {
+  background: url("icons/tactic.png") no-repeat center center;
+}
+
+.icon-download {
+  background: url("icons/download.png") no-repeat center center;
+  /*下载*/
+}
+
+.icon-movecopy {
+  background: url("icons/movecopy.png") no-repeat center center;
+  /*复制移动*/
+}
+
+.icon-share {
+  background: url("icons/share.png") no-repeat center center;
+  /*共享*/
+}
+
+.icon-createreference {
+  background: url("icons/createreference.png") no-repeat center center;
+  /*创建引用*/
+}
+
+.icon-favorite {
+  background: url("icons/favorite.png") no-repeat center center;
+  /*收藏*/
+}
+
+.icon-authorize {
+  background: url("icons/authorize.png") no-repeat center center;
+  /*分配权限*/
+}
+
+.icon-tag {
+  background: url("icons/tag.png") no-repeat center center;
+  /*标签*/
+}
+
+.icon-subscribe {
+  background: url("icons/subscribe.png") no-repeat center center;
+  /*订阅*/
+}
+
+.icon-notice {
+  background: url("icons/notice.png") no-repeat center center;
+  /*通知*/
+}
+
+/*2017-09-22*/
+.icon-extedit {
+  background: url(icons/extedit.png) no-repeat center center;
+  /*扩展编辑*/
+}
+
+.icon-update {
+  background: url(icons/update.png) no-repeat center center;
+  /*更新*/
+}
+
+.icon-rename {
+  background: url(icons/rename.png) no-repeat center center;
+  /*重命名*/
+}
+
+.icon-attribute {
+  background: url(icons/attribute.png) no-repeat center center;
+  /*属性*/
+}
+
+.icon-upload {
+  background: url(icons/upload.png) no-repeat center center;
+  /*上传*/
+}
+
+.icon-create {
+  background: url(icons/create.png) no-repeat center center;
+  /*新建*/
+}
+
+.icon-refresh {
+  background: url(icons/refresh.png) no-repeat center center;
+  /*刷新*/
+}
+
+.icon-unfavorite {
+  background: url(icons/unfavorite.png) no-repeat center center;
+  /*取消收藏*/
+}
+
+.icon-goback {
+  background: url("icons/goback.png") no-repeat center center;
+  /*返加上一级*/
+}
+
+.icon-unlock {
+  background: url(icons/unlock.png) no-repeat center center;
+  /*解锁*/
+}
+.icon-metadata {
+    background: url('icons/metadata.png') no-repeat center center;
+    /*元数据*/
+}
+
+/*# sourceMappingURL=icon.css.map */
